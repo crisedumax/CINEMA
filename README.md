@@ -4,7 +4,7 @@
 ![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/06029028-be82-4cea-8efb-bc36e087c887)
 
 URL de Sitio publicado en VERCEL.COM
-https://cinemacreyes.vercel.app/Movielist
+https://cinemacreyes.vercel.app
 
 ## 1. Objetivo
 El objetivo de este ejercicio es comenzar a familiarizarnos con React. Crearemos un nuevo proyecto que contendrá toda la implementación del FrontEnd de un cine.
@@ -35,5 +35,3 @@ Criterios de EVALUACION de la actividad1:
     - Implementar custom hooks a eleccion propia
     - Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
     - usar un archivo CSS por componente, y opcionalmente 1 global
-
-URL de Sitio publicado en VERCEL.COM https://cinemacreyes.vercel.app/Movielist
