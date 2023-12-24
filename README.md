@@ -35,4 +35,5 @@ Criterios de EVALUACION de la actividad1:
     - Implementar custom hooks a eleccion propia
     - Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
     - usar un archivo CSS por componente, y opcionalmente 1 global
-    - URL de Sitio publicado en VERCEL.COM https://cinemacreyes.vercel.app/Movielist
+
+URL de Sitio publicado en VERCEL.COM https://cinemacreyes.vercel.app/Movielist
