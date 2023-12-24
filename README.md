@@ -28,9 +28,11 @@ Crearemos una vista para nuestro FrontEnd dentro de un archivo que puede llamars
     - Botón para ir a la página de selección de asientos (botón sin efecto por el momento).
 - Las diferentes ocurrencias de ``Movie`` se generarán a partir de un array de objetos que contendrá la información de las películas en el componente ``MovieList``.
 
-- Criterios de EVALUACION de la actividad1:
+## 3. Instrucciones Actividad 1
+Criterios de EVALUACION de la actividad1:
     - Deberá tener al menos 10 componentes funcionales propios
     - Debe usar useState y useEffect
     - Implementar custom hooks a eleccion propia
     - Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
     - usar un archivo CSS por componente, y opcionalmente 1 global
+    - URL de Sitio publicado en VERCEL.COM https://cinemacreyes.vercel.app/Movielist
