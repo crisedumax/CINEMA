@@ -1,4 +1,5 @@
 # Programación orientada a componentes con React
+# ACTIVIDAD 1 - Desarrollo Web FullStack
 ![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/e150b479-fd4f-41a6-9b79-d9c04fcaa811)
 ![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/06029028-be82-4cea-8efb-bc36e087c887)
 
