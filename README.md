@@ -30,8 +30,8 @@ Crearemos una vista para nuestro FrontEnd dentro de un archivo que puede llamars
 
 ## 3. Instrucciones Actividad 1
 Criterios de EVALUACION de la actividad1:
-    - Deberá tener al menos 10 componentes funcionales propios
-    - Debe usar useState y useEffect
-    - Implementar custom hooks a eleccion propia
-    - Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
-    - usar un archivo CSS por componente, y opcionalmente 1 global
+- Deberá tener al menos 10 componentes funcionales propios
+- Debe usar useState y useEffect
+- Implementar custom hooks a eleccion propia
+- Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
+- Usar un archivo CSS por componente, y opcionalmente 1 global
