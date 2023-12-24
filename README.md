@@ -1,4 +1,6 @@
 # Programación orientada a componentes con React
+![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/e150b479-fd4f-41a6-9b79-d9c04fcaa811)
+![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/06029028-be82-4cea-8efb-bc36e087c887)
 
 ## 1. Objetivo
 El objetivo de este ejercicio es comenzar a familiarizarnos con React. Crearemos un nuevo proyecto que contendrá toda la implementación del FrontEnd de un cine.
@@ -21,3 +23,10 @@ Crearemos una vista para nuestro FrontEnd dentro de un archivo que puede llamars
     - Puntuación.
     - Botón para ir a la página de selección de asientos (botón sin efecto por el momento).
 - Las diferentes ocurrencias de ``Movie`` se generarán a partir de un array de objetos que contendrá la información de las películas en el componente ``MovieList``.
+
+- Criterios de EVALUACION de la actividad1:
+    - Deberá tener al menos 10 componentes funcionales propios
+    - Debe usar useState y useEffect
+    - Implementar custom hooks a eleccion propia
+    - Usar React Router V6 para enrutamiento de peticiones y se deben usar como minimo 4 rutas
+    - usar un archivo CSS por componente, y opcionalmente 1 global
