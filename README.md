@@ -3,6 +3,9 @@
 ![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/e150b479-fd4f-41a6-9b79-d9c04fcaa811)
 ![imagen](https://github.com/crisedumax/CINEMA/assets/32473863/06029028-be82-4cea-8efb-bc36e087c887)
 
+URL de Sitio publicado en VERCEL.COM
+https://cinemacreyes.vercel.app/Movielist
+
 ## 1. Objetivo
 El objetivo de este ejercicio es comenzar a familiarizarnos con React. Crearemos un nuevo proyecto que contendrá toda la implementación del FrontEnd de un cine.
 En algún momento, por supuesto, tendremos que incluir toda la lógica y diseño de gestión de butacas que ya hemos implementado hasta ahora.
