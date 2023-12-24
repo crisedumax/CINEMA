@@ -1,0 +1,7 @@
+.error {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    background-image: url("../images/404.png");
+    justify-content: center;
+}

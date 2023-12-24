@@ -1,0 +1,23 @@
+.ImageMovie{
+    width: 230px;
+    height: 345px;
+    border-radius: 20px;
+    background-color: azure;
+    background-size: auto;
+}
+.card {
+    background: linear-gradient(to top, black, darkslategray, darkseagreen);
+    border: 1px solid #444;
+    border-radius: 25px;
+    padding: 20px;
+    width: 230px;
+    color: #cbcbcb;
+}
+.buttonSeleccion{
+    border: none;
+    color: black;
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 5px;
+    position: relative;
+}

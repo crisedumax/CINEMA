@@ -1,0 +1,13 @@
+.movie-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,230px);
+    gap: 55px;
+    padding: 20px;
+    justify-content: center;
+}
+.title {
+    text-align: center;
+    font-size: 2rem;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #030701, 0 0 40px #00e613,
+    0 0 50px #090909, 0 0 60px #00e613, 0 0 70px #41e600;
+}

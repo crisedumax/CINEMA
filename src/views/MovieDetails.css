@@ -1,0 +1,29 @@
+.movie-containerDescription {
+    display: grid;
+    gap: 55px;
+    padding: 20px;
+    justify-content: right;
+}
+.ImageMovieS{
+    width: 700px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: azure;
+    background-size: auto;
+    justify-content: center;
+}
+.alignContent{
+    align-items: center;
+}
+.titleDescription {
+    text-align: left;
+    font-size: 1.6rem;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #1700e6, 0 0 40px #11987f,
+    0 0 50px #1700e6, 0 0 60px #1700e4, 0 0 70px #1700e4;
+}
+.paragraphDescription {
+    text-align: left;
+    font-size: 1.2rem;
+    text-shadow: 0 0 10px #130909, 0 0 20px #a21919, 0 0 30px #015668, 0 0 40px #cbcbcb,
+    0 0 50px #1700e6, 0 0 60px #1700e4, 0 0 70px #1700e4;
+}
